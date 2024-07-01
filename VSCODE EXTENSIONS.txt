@@ -1,0 +1,42 @@
+
+1. Live Server
+2. Live Preview
+3. VSCODE-pets (For Fun)
+4. Prettier Code Formatter
+5. Auto Rename Tag
+6. HTML End Tag Labels
+7. Indent Rainbow
+8. Codesnap (CTRL + SHIFT + P)
+9. Image Preview
+10. Github theme
+11. Material Icon Theme
+12. Better Comments
+13. Excalidraw (Every File extension should be like that - test.excalidraw)
+14. Liveshare
+15. Color Higlight
+16. Axe Accessibility Linter
+17. HTML To CSS Autocompletion
+18. BEM Helper (CSS Class Naming Convention rules following)
+19. CSS Flexbox Cheatsheet
+20. CSS Navigation
+21. Javascript (ES6) code Snippets
+22. DOM Code Snippets
+23. Error Lense
+24. Eslint
+25. npm intellisense
+26. Import cost
+27. REST Client
+28. Thunder Client
+29. JSON to TS
+30. Pretty Typescript Errors
+31. Markdown Preview Enhanced
+32. markdownlint
+33. Fluent Icon
+34. Andromeda (Theme)
+35. Cyberpunk (Theme)
+36. Pro Hacker Theme
+37. ES7 React/Redux/GraphQL/React-Native snippets
+38. ERD Editor
+39. Code Spell Checker
+40. DotENV
+41. Git graph
